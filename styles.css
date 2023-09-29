@@ -1,5 +1,15 @@
 /*  your css code here. If applicable */
-.circle{
+.green{
+	width:100px;
+	height:100px;
+	border-radius:50%;
+}
+.yellow{
+	width:100px;
+	height:100px;
+	border-radius:50%;
+}
+.red{
 	width:100px;
 	height:100px;
 	border-radius:50%;
@@ -10,7 +20,7 @@
 	align-items :center;
      border-radius:20px;
     height:200px;
-	width:400px;
+	width:600px;
 	background-color:#D3D3D3;
     display:flex;
 	justify-content:space-around;
